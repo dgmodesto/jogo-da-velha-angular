@@ -1,5 +1,5 @@
-# JogoDaVelha
-
+# Jogo da velha
+ 
 Versão Angular 8.2.0.
 
 ## Itens abordados neste projeto
